@@ -65,7 +65,7 @@
     {
       "name": "id-tc26-gost-3410-2012-256-paramSetA",
       "category": "gost",
-      "desc": "GOST R 34.10-2012 256 bit parameter set A (cofactor 4, also representable as a twisted Edwards curve)",
+      "desc": "GOST R 34.10-2012 256 bit parameter set A",
       "oid": "1.2.643.7.1.2.1.1.1",
       "field": {
         "type": "Prime",
@@ -275,7 +275,7 @@
     {
       "name": "id-tc26-gost-3410-2012-512-paramSetC",
       "category": "gost",
-      "desc": "GOST R 34.10-2012 512 bit parameter set C (cofactor 4, also representable as a twisted Edwards curve)",
+      "desc": "GOST R 34.10-2012 512 bit parameter set C",
       "oid": "1.2.643.7.1.2.1.2.3",
       "field": {
         "type": "Prime",
