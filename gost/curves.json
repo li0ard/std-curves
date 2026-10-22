@@ -30,7 +30,7 @@
         }
       },
       "order": "0x5fffffffffffffffffffffffffffffff606117a2f4bde428b7458a54b6e87b85",
-      "cofactor": "0x1"
+      "cofactor": "0x2"
     },
     {
       "name": "id-GostR3410-2001-TestParamSet",
